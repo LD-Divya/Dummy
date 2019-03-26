@@ -6,6 +6,7 @@ public class Addition {
 		float Sum=num1+num2;
 		System.out.println(Sum);
 		//new line to check insertion
+		//next line for insertion
 	}
 
 }
